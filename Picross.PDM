@@ -1,0 +1,374 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\tmp
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+10x10stage1.pcs=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage1.pcs
+Default.ezp=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ezp
+false.gif=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\false.gif
+10x10stage10.pcs=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage10.pcs
+Default.hdp=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.hdp
+ReadMe.doc=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\ReadMe.doc
+10x10stage2.pcs=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage2.pcs
+true.gif=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\true.gif
+10x10stage3.pcs=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage3.pcs
+
+[Package|Standard Setup Package 1|Files Released]
+10x10stage10.pcsp=
+10x10stage9.pcsp=
+10x10stage8.pcsp=
+10x10stage7.pcsp=
+10x10stage6.pcsp=
+10x10stage5.pcsp=
+10x10stage4.pcsp=
+10x10stage3.pcsp=
+10x10stage2.pcsp=
+10x10stage1.pcsp=
+5x5stage10.pcsp=
+5x5stage9.pcsp=
+5x5stage8.pcsp=
+5x5stage7.pcsp=
+5x5stage6.pcsp=
+5x5stage5.pcsp=
+5x5stage4.pcsp=
+5x5stage3.pcsp=
+5x5stage2.pcsp=
+5x5stage1.pcsp=
+unknown.jpg=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Mscomctl.ocx=
+C:\WINDOWS\system32\COMDLG32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+readme.doc=
+default.ezp=
+default.hdp=
+5x5stage1.pcs=
+5x5stage3.pcs=
+5x5stage2.pcs=
+5x5stage4.pcs=
+5x5stage5.pcs=
+5x5stage6.pcs=
+5x5stage7.pcs=
+5x5stage8.pcs=
+5x5stage9.pcs=
+5x5stage10.pcs=
+10x10stage1.pcs=
+10x10stage2.pcs=
+10x10stage3.pcs=
+10x10stage4.pcs=
+10x10stage5.pcs=
+10x10stage6.pcs=
+10x10stage7.pcs=
+10x10stage8.pcs=
+10x10stage9.pcs=
+10x10stage10.pcs=
+tutorial.pcs=
+false.gif=
+true.gif=
+c:\documents and settings\ryan.winbox\my documents\picross\profiles\default.ehd=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage1.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage2.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage3.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage4.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage5.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage6.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage7.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage8.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage9.pcs=
+c:\documents and settings\ryan.winbox\my documents\picross\stages\15x15stage10.pcs=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Picross.exe=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\ReadMe.doc=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ezp=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.hdp=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage1.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage3.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage2.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage4.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage5.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage6.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage7.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage8.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage9.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage10.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage1.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage2.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage3.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage4.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage5.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage6.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage7.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage8.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage9.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage10.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\tutorial.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\false.gif=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\true.gif=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ehd=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage1.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage2.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage3.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage4.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage5.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage6.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage7.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage8.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage9.pcs=Yes
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage10.pcs=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Ryan\My Documents\Picross\Picross.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Ryan\My Documents\Picross\ReadMe.doc=$(AppPath)
+C:\Documents and Settings\Ryan\My Documents\Picross\Profiles\Default.ezp=$(AppPath)\Profiles
+C:\Documents and Settings\Ryan\My Documents\Picross\Profiles\Default.hdp=$(AppPath)\Profiles
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\unknown.jpg=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage1.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage3.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage2.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage4.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage5.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage6.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage7.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage8.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage9.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage10.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage1.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage2.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage3.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage4.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage5.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage6.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage7.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage8.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage9.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage10.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\tutorial.pcs=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage1.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage2.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage3.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage4.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage5.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage6.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage7.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage8.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage9.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage10.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage1.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage2.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage3.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage4.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage5.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage6.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage7.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage8.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage9.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage10.pcsp=$(AppPath)\stages
+C:\Documents and Settings\Ryan\My Documents\Picross\false.gif=$(AppPath)
+C:\Documents and Settings\Ryan\My Documents\Picross\true.gif=$(AppPath)
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Picross.exe=$(AppPath)
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\ReadMe.doc=$(AppPath)
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ezp=$(AppPath)\Profiles
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.hdp=$(AppPath)\Profiles
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage1.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage3.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage2.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage4.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage5.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage6.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage7.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage8.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage9.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage10.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage1.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage2.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage3.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage4.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage5.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage6.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage7.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage8.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage9.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage10.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\tutorial.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\false.gif=$(AppPath)
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\true.gif=$(AppPath)
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ehd=$(AppPath)\Profiles
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage1.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage2.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage3.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage4.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage5.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage6.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage7.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage8.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage9.pcs=$(AppPath)\Stages
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage10.pcs=$(AppPath)\Stages
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Ryan\My Documents\Picross\Picross.exe=No
+C:\Documents and Settings\Ryan\My Documents\Picross\ReadMe.doc=No
+C:\Documents and Settings\Ryan\My Documents\Picross\Profiles\Default.ezp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\Profiles\Default.hdp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\unknown.jpg=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage1.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage3.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage2.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage4.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage5.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage6.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage7.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage8.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage9.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage10.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage1.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage2.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage3.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage4.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage5.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage6.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage7.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage8.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage9.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage10.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\tutorial.pcs=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage1.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage2.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage3.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage4.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage5.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage6.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage7.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage8.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage9.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\5x5stage10.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage1.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage2.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage3.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage4.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage5.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage6.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage7.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage8.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage9.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\stages\10x10stage10.pcsp=No
+C:\Documents and Settings\Ryan\My Documents\Picross\false.gif=No
+C:\Documents and Settings\Ryan\My Documents\Picross\true.gif=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Picross.exe=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\ReadMe.doc=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ezp=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.hdp=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage1.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage3.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage2.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage4.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage5.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage6.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage7.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage8.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage9.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\5x5stage10.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage1.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage2.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage3.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage4.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage5.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage6.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage7.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage8.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage9.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\10x10stage10.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\tutorial.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\false.gif=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\true.gif=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Profiles\Default.ehd=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage1.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage2.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage3.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage4.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage5.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage6.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage7.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage8.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage9.pcs=No
+C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\Stages\15x15stage10.pcs=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=MT's Picross
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\tmp
+ProjectFolder=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross
+ServerSideCab=
+File1=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\tmp\setup.exe
+File2=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\tmp\Setup.Lst
+File3=C:\Documents and Settings\Ryan.WINBOX\My Documents\Picross\tmp\Picross.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=MT's Picross
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|MT's Picross]
+Icon1=Picross.exe
+Title1=MT's Picross
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ReadMe.doc
+Title2=ReadMe
+StartIn2=$(AppPath)
+Key2=Icon3
